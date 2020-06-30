@@ -16,6 +16,7 @@ public class CPFReader {
   }
 
   public List<String> getCPFs() {
+    
     String fullPathFileName = "ids.txt";
 
     List<String> result = new ArrayList<>();
