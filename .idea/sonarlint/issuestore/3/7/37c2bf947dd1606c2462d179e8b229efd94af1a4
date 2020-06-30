@@ -1,0 +1,14 @@
+
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(¢›Ê8ÀûÏª°.
+I
+java:S1481",Remove this unused "mapJson" local variable.(ğ¤½®8Êçš°.
+]	java:S125!"<This block of commented-out lines of code should be removed.(Â™†úÿÿÿÿ8¦®Ì¬°.
+]	java:S125("<This block of commented-out lines of code should be removed.(›Ÿ‰Àøÿÿÿÿ8ñ×Ê¬°.
+a
+java:S2147>"DCombine this catch with the one at line 60, which has the same body.(ï­£Ä8Êçš°.
+E
+java:S1148?"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Êçš°.
+X	java:S125"<This block of commented-out lines of code should be removed.(ÍÍ’Š8ùËä¬°.
+X	java:S125+"<This block of commented-out lines of code should be removed.(×è®ß8Ë”Ë¬°.
+E
+java:S1148="#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Êçš°.
