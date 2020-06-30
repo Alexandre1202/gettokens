@@ -8,15 +8,15 @@ import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
 
-public class CPFReader {
+public class IDReader {
 
   public static void main(String[] args) {
-    CPFReader reader = new CPFReader();
+    IDReader reader = new IDReader();
     reader.getCPFs();
   }
 
   public List<String> getCPFs() {
-    
+
     String fullPathFileName = "ids.txt";
 
     List<String> result = new ArrayList<>();

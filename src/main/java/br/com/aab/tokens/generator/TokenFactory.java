@@ -18,11 +18,11 @@ import javax.net.ssl.TrustManager;
 import javax.net.ssl.X509TrustManager;
 import org.json.JSONObject;
 
-public class Login {
+public class TokenFactory {
 
   public static void main(String[] args) {
-    Login login = new Login();
-    CPFReader cpfReader = new CPFReader();
+    TokenFactory login = new TokenFactory();
+    IDReader cpfReader = new IDReader();
     cpfReader.getCPFs().forEach(cpf -> System.out.println(login.postLogin(cpf)));
   }
 
